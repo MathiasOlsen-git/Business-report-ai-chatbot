@@ -12,7 +12,7 @@ A local RAG-based chatbot that answers questions based on your own company docum
  langchain-community - Document loaders (PDF, DOCX, CSV, etc.)
  pandas            - CSV handling and display
  docx2txt / PyPDF2 - File parsing
-
+```
 ---
 
 ![Chatbot Screenshot](chatbotpic.PNG)
