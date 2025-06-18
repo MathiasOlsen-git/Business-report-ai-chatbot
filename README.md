@@ -15,8 +15,7 @@ A local RAG-based chatbot that answers questions based on your own company docum
 
 ---
 
-![Chatbot Screenshot](chatbot.PNG)
-
+![Chatbot Screenshot](chatbotpic.PNG)
 
 ---
 
