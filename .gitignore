@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+
+# Streamlit cache
+.streamlit/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Models / data (optional)
+*.bin
+*.ckpt
+*.pt
+*.sav
+*.pkl
+*.h5
+*.onnx
+
+# Your own local docs or test files
+docs/*.pdf
+docs/*.docx
+docs/*.csv
